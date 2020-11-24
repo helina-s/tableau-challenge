@@ -14,3 +14,6 @@ How does the average trip duration change by age?
 What is the average distance in miles that a bike is ridden?
 
 A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+
+https://public.tableau.com/profile/helina.s#!/vizhome/shared/B3P5Y5M2Y
+
