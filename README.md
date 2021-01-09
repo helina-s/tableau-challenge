@@ -3,7 +3,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 In this challenge, I was able to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
-Design 2-5 visualizations for each discovered phenomena (4-10 total) with a timespan of Nov 2019 through Oct 2020. 
+I designed 2-5 visualizations for each discovered phenomena (4-10 total) with a timespan of Nov 2019 through Oct 2020. 
 
 The following are some questions I was able to answer based on the data:
 How many trips have been recorded total during the chosen period?
